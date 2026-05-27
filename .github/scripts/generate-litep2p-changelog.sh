@@ -4,7 +4,7 @@
 
 set -eu
 
-REMOTE_LINK="https://github.com/paritytech/litep2p/pull/"
+REMOTE_LINK="https://github.com/EgorPopelyaev/litep2p/pull/"
 
 function usage() {
     cat <<HELP_USAGE
